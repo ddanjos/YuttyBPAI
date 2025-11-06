@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0">
   <channel>
     <title>Yutty BPA Updates</title>
     <link>https://github.com/ddanjos/Yutty-BPA</link>
+    <description>Atualizações automáticas</description>
+    <language>pt-BR</language>
 
     <item>
       <title>Versão 1.0.1</title>
-      <sparkle:releaseNotesLink>https://github.com/ddanjos/Yutty-BPA/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/ddanjos/YuttyBPAI/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/ddanjos/Yutty-BPA/releases/download/v1.0.1/YuttyBPAI.zip"
+        url="\\u01bnu001sln-21\c$\dev\releases\bpai\v101.zip"
         sparkle:version="1.0.1"
-        length="12345678"
-        type="application/octet-stream" />
+        type="application/octet-stream"
+        length="12345678" />
     </item>
   </channel>
 </rss>
