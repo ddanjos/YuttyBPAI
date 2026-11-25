@@ -3,7 +3,7 @@
 <p>Utilitário para organizar arquivos de produção ambulatorial conforme o padrão do <strong>BPA Individualizado (BPA-I)</strong>.</p>
 
 <hr>
-
+<h4>Manual usado 07-2026, disponível no respositório para análises.</h4>
 <h2>Visão Geral do Sistema</h2>
 
 <h3>1. Agrupamento por CNS / Reorganização de Folhas e Linhas</h3>
